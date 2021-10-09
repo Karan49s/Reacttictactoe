@@ -11,8 +11,6 @@ const Board = ({ board, handleSquareClick }) => {
     );
   };
 
-  console.log(board);
-
   return (
     <div className="board">
       <div className="board-row">
